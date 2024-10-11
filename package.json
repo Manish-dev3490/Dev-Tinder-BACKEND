@@ -1,4 +1,19 @@
 {
+  "name": "dev-tinder-backend",
+  "version": "1.0.0",
+  "description": "Dev tinder for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "React",
+    "js"
+  ],
+  "author": "Manish Kumar",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.21.1",
     "nodemon": "^3.1.7"
